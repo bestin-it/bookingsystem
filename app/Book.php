@@ -13,7 +13,7 @@ class Book extends Model
      * @var array
      */
     protected $fillable = [
-        'id', 'title', 'isbn', 'year', 'return_date', 'borrow_data', 'is_available', 'created_date',
+        'id', 'title', 'isbn', 'year', 'return_date', 'borrow_date', 'is_available', 'created_date',
     ];
     
 }
