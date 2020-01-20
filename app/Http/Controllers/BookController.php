@@ -65,6 +65,6 @@ class BookController extends Controller
     {
         $book= Book::find($id);
 
-        return response()->json([ 'message' => 'The brick has been deleted'], 200);
+        return response()->json([ 'message' => 'The book has been deleted'], 200);
     }
 }
