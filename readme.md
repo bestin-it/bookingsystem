@@ -21,8 +21,11 @@ Laravel helps to create REST API very efficiently using Artisan commands that he
 All needed information about the booking system is explainded in the series of articles:
 
 [1. Designing Laravel REST API](https://bestin-it.com/building-simple-laravel-5-4-api-for-books-management-with-books-readers-and-librarians/)
+
 [2. Creating connection to database](https://bestin-it.com/laravel-5-4-api-for-books-management-new-project-and-connection-to-database/)
+
 [3. Implementing REST API endpoints in Laravel](https://bestin-it.com/laravel-5-4-api-for-books-management-new-project-and-connection-to-database/)
+
 
 
 
